@@ -18,7 +18,7 @@ Jules Brendo - ;
 
 > * Principal mantenedor (Oracle, Microsoft, Google, etc): Bocoup
 
-## "Instalação e uso"
+
 
 > * Descrever de forma resumida como instalar, demonstrando os comandos (ver Markdown sobre códigos): instalar o johnny-five:npm install johnny-five;Executando Olá Mundo
 
